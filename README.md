@@ -6,6 +6,5 @@
 - Contains animations when scrolling.
 - Includes a dark and light mode.
 
-- Deployed url: https://nirmalsharma00.github.io/travel-website.github.io/
 
 # NIRMAL SHARMA.....
